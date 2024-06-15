@@ -1,2 +1,2 @@
 # SprringBootMicroservicesSLabs
-project for Spring-Boot-Microservices
+build a BookStore application using Spring Boot, Spring Cloud, and Docker.
